@@ -1,2 +1,4 @@
 # RNA_cap
-for interview
+
+seq = "GGGAATCTTCCGCAATAAAACTCAAAGGAATTTCGATGCAACGCGAAGAACCTTCCCGAAGCCGGTGGCCGACAATCTTCGGCAAT"
+ss = "((((((((((((((...(((.((....)).)))...)))...).)))))...)))))..........(((((......)))))..."
